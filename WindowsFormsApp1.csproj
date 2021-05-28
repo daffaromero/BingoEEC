@@ -318,6 +318,12 @@
     <Compile Include="s49.Designer.cs">
       <DependentUpon>s49.cs</DependentUpon>
     </Compile>
+    <Compile Include="s5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s5.Designer.cs">
+      <DependentUpon>s5.cs</DependentUpon>
+    </Compile>
     <Compile Include="s6.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -485,6 +491,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="s49.resx">
       <DependentUpon>s49.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s5.resx">
+      <DependentUpon>s5.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="s6.resx">
       <DependentUpon>s6.cs</DependentUpon>

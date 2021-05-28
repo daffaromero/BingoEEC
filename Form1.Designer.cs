@@ -30,35 +30,13 @@ namespace WindowsFormsApp1
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
-            this.soal2 = new System.Windows.Forms.Button();
-            this.soal1 = new System.Windows.Forms.Button();
-            this.btnRefresh = new System.Windows.Forms.Button();
-            this.soal3 = new System.Windows.Forms.Button();
-            this.soal6 = new System.Windows.Forms.Button();
-            this.soal5 = new System.Windows.Forms.Button();
-            this.soal4 = new System.Windows.Forms.Button();
-            this.soal7 = new System.Windows.Forms.Button();
-            this.soal14 = new System.Windows.Forms.Button();
-            this.soal13 = new System.Windows.Forms.Button();
-            this.soal12 = new System.Windows.Forms.Button();
-            this.soal11 = new System.Windows.Forms.Button();
-            this.soal10 = new System.Windows.Forms.Button();
-            this.soal9 = new System.Windows.Forms.Button();
-            this.soal8 = new System.Windows.Forms.Button();
-            this.soal28 = new System.Windows.Forms.Button();
-            this.soal27 = new System.Windows.Forms.Button();
-            this.soal26 = new System.Windows.Forms.Button();
-            this.soal25 = new System.Windows.Forms.Button();
-            this.soal24 = new System.Windows.Forms.Button();
-            this.soal23 = new System.Windows.Forms.Button();
-            this.soal22 = new System.Windows.Forms.Button();
-            this.soal21 = new System.Windows.Forms.Button();
-            this.soal20 = new System.Windows.Forms.Button();
-            this.soal19 = new System.Windows.Forms.Button();
-            this.soal18 = new System.Windows.Forms.Button();
-            this.soal17 = new System.Windows.Forms.Button();
-            this.soal16 = new System.Windows.Forms.Button();
-            this.soal15 = new System.Windows.Forms.Button();
+            this.soal49 = new System.Windows.Forms.Button();
+            this.soal48 = new System.Windows.Forms.Button();
+            this.soal47 = new System.Windows.Forms.Button();
+            this.soal46 = new System.Windows.Forms.Button();
+            this.soal45 = new System.Windows.Forms.Button();
+            this.soal44 = new System.Windows.Forms.Button();
+            this.soal43 = new System.Windows.Forms.Button();
             this.soal42 = new System.Windows.Forms.Button();
             this.soal41 = new System.Windows.Forms.Button();
             this.soal40 = new System.Windows.Forms.Button();
@@ -73,13 +51,35 @@ namespace WindowsFormsApp1
             this.soal31 = new System.Windows.Forms.Button();
             this.soal30 = new System.Windows.Forms.Button();
             this.soal29 = new System.Windows.Forms.Button();
-            this.soal49 = new System.Windows.Forms.Button();
-            this.soal48 = new System.Windows.Forms.Button();
-            this.soal47 = new System.Windows.Forms.Button();
-            this.soal46 = new System.Windows.Forms.Button();
-            this.soal45 = new System.Windows.Forms.Button();
-            this.soal44 = new System.Windows.Forms.Button();
-            this.soal43 = new System.Windows.Forms.Button();
+            this.soal28 = new System.Windows.Forms.Button();
+            this.soal27 = new System.Windows.Forms.Button();
+            this.soal26 = new System.Windows.Forms.Button();
+            this.soal25 = new System.Windows.Forms.Button();
+            this.soal24 = new System.Windows.Forms.Button();
+            this.soal23 = new System.Windows.Forms.Button();
+            this.soal22 = new System.Windows.Forms.Button();
+            this.soal21 = new System.Windows.Forms.Button();
+            this.soal20 = new System.Windows.Forms.Button();
+            this.soal19 = new System.Windows.Forms.Button();
+            this.soal18 = new System.Windows.Forms.Button();
+            this.soal17 = new System.Windows.Forms.Button();
+            this.soal16 = new System.Windows.Forms.Button();
+            this.soal15 = new System.Windows.Forms.Button();
+            this.soal14 = new System.Windows.Forms.Button();
+            this.soal13 = new System.Windows.Forms.Button();
+            this.soal12 = new System.Windows.Forms.Button();
+            this.soal11 = new System.Windows.Forms.Button();
+            this.soal10 = new System.Windows.Forms.Button();
+            this.soal9 = new System.Windows.Forms.Button();
+            this.soal8 = new System.Windows.Forms.Button();
+            this.soal7 = new System.Windows.Forms.Button();
+            this.soal6 = new System.Windows.Forms.Button();
+            this.soal5 = new System.Windows.Forms.Button();
+            this.soal4 = new System.Windows.Forms.Button();
+            this.soal3 = new System.Windows.Forms.Button();
+            this.soal2 = new System.Windows.Forms.Button();
+            this.soal1 = new System.Windows.Forms.Button();
+            this.btnRefresh = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -142,354 +142,89 @@ namespace WindowsFormsApp1
             this.panel1.Size = new System.Drawing.Size(539, 532);
             this.panel1.TabIndex = 1;
             // 
-            // soal2
+            // soal49
             // 
-            this.soal2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.soal2.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.soal2.Location = new System.Drawing.Point(79, 3);
-            this.soal2.Name = "soal2";
-            this.soal2.Size = new System.Drawing.Size(70, 70);
-            this.soal2.TabIndex = 3;
-            this.soal2.Text = "2";
-            this.soal2.UseVisualStyleBackColor = false;
-            this.soal2.Click += new System.EventHandler(this.soal2_Click);
+            this.soal49.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.soal49.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.soal49.Location = new System.Drawing.Point(460, 459);
+            this.soal49.Name = "soal49";
+            this.soal49.Size = new System.Drawing.Size(70, 70);
+            this.soal49.TabIndex = 50;
+            this.soal49.Text = "7";
+            this.soal49.UseVisualStyleBackColor = false;
+            this.soal49.Click += new System.EventHandler(this.soal49_Click);
             // 
-            // soal1
+            // soal48
             // 
-            this.soal1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.soal1.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.soal1.Location = new System.Drawing.Point(3, 3);
-            this.soal1.Name = "soal1";
-            this.soal1.Size = new System.Drawing.Size(70, 70);
-            this.soal1.TabIndex = 2;
-            this.soal1.Text = "1";
-            this.soal1.UseVisualStyleBackColor = false;
-            this.soal1.Click += new System.EventHandler(this.soal1_Click);
+            this.soal48.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.soal48.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.soal48.Location = new System.Drawing.Point(384, 459);
+            this.soal48.Name = "soal48";
+            this.soal48.Size = new System.Drawing.Size(70, 70);
+            this.soal48.TabIndex = 49;
+            this.soal48.Text = "6";
+            this.soal48.UseVisualStyleBackColor = false;
+            this.soal48.Click += new System.EventHandler(this.soal48_Click);
             // 
-            // btnRefresh
+            // soal47
             // 
-            this.btnRefresh.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.btnRefresh.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnRefresh.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.btnRefresh.Location = new System.Drawing.Point(1126, 47);
-            this.btnRefresh.Name = "btnRefresh";
-            this.btnRefresh.Size = new System.Drawing.Size(178, 50);
-            this.btnRefresh.TabIndex = 1;
-            this.btnRefresh.Text = "Refresh";
-            this.btnRefresh.UseVisualStyleBackColor = false;
-            this.btnRefresh.Click += new System.EventHandler(this.btnRefresh_Click);
+            this.soal47.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.soal47.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.soal47.Location = new System.Drawing.Point(308, 459);
+            this.soal47.Name = "soal47";
+            this.soal47.Size = new System.Drawing.Size(70, 70);
+            this.soal47.TabIndex = 48;
+            this.soal47.Text = "5";
+            this.soal47.UseVisualStyleBackColor = false;
+            this.soal47.Click += new System.EventHandler(this.soal47_Click);
             // 
-            // soal3
+            // soal46
             // 
-            this.soal3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.soal3.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.soal3.Location = new System.Drawing.Point(155, 3);
-            this.soal3.Name = "soal3";
-            this.soal3.Size = new System.Drawing.Size(70, 70);
-            this.soal3.TabIndex = 4;
-            this.soal3.Text = "3";
-            this.soal3.UseVisualStyleBackColor = false;
-            this.soal3.Click += new System.EventHandler(this.soal3_Click);
+            this.soal46.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.soal46.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.soal46.Location = new System.Drawing.Point(232, 459);
+            this.soal46.Name = "soal46";
+            this.soal46.Size = new System.Drawing.Size(70, 70);
+            this.soal46.TabIndex = 47;
+            this.soal46.Text = "4";
+            this.soal46.UseVisualStyleBackColor = false;
+            this.soal46.Click += new System.EventHandler(this.soal46_Click);
             // 
-            // soal6
+            // soal45
             // 
-            this.soal6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.soal6.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.soal6.Location = new System.Drawing.Point(384, 3);
-            this.soal6.Name = "soal6";
-            this.soal6.Size = new System.Drawing.Size(70, 70);
-            this.soal6.TabIndex = 7;
-            this.soal6.Text = "6";
-            this.soal6.UseVisualStyleBackColor = false;
-            this.soal6.Click += new System.EventHandler(this.soal6_Click);
+            this.soal45.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.soal45.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.soal45.Location = new System.Drawing.Point(155, 459);
+            this.soal45.Name = "soal45";
+            this.soal45.Size = new System.Drawing.Size(70, 70);
+            this.soal45.TabIndex = 46;
+            this.soal45.Text = "3";
+            this.soal45.UseVisualStyleBackColor = false;
+            this.soal45.Click += new System.EventHandler(this.soal45_Click);
             // 
-            // soal5
+            // soal44
             // 
-            this.soal5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.soal5.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.soal5.Location = new System.Drawing.Point(308, 3);
-            this.soal5.Name = "soal5";
-            this.soal5.Size = new System.Drawing.Size(70, 70);
-            this.soal5.TabIndex = 6;
-            this.soal5.Text = "5";
-            this.soal5.UseVisualStyleBackColor = false;
-            this.soal5.Click += new System.EventHandler(this.soal5_Click);
+            this.soal44.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.soal44.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.soal44.Location = new System.Drawing.Point(79, 459);
+            this.soal44.Name = "soal44";
+            this.soal44.Size = new System.Drawing.Size(70, 70);
+            this.soal44.TabIndex = 45;
+            this.soal44.Text = "2";
+            this.soal44.UseVisualStyleBackColor = false;
+            this.soal44.Click += new System.EventHandler(this.soal44_Click);
             // 
-            // soal4
+            // soal43
             // 
-            this.soal4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.soal4.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.soal4.Location = new System.Drawing.Point(232, 3);
-            this.soal4.Name = "soal4";
-            this.soal4.Size = new System.Drawing.Size(70, 70);
-            this.soal4.TabIndex = 5;
-            this.soal4.Text = "4";
-            this.soal4.UseVisualStyleBackColor = false;
-            this.soal4.Click += new System.EventHandler(this.soal4_Click);
-            // 
-            // soal7
-            // 
-            this.soal7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.soal7.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.soal7.Location = new System.Drawing.Point(460, 3);
-            this.soal7.Name = "soal7";
-            this.soal7.Size = new System.Drawing.Size(70, 70);
-            this.soal7.TabIndex = 8;
-            this.soal7.Text = "7";
-            this.soal7.UseVisualStyleBackColor = false;
-            this.soal7.Click += new System.EventHandler(this.soal7_Click);
-            // 
-            // soal14
-            // 
-            this.soal14.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.soal14.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.soal14.Location = new System.Drawing.Point(460, 79);
-            this.soal14.Name = "soal14";
-            this.soal14.Size = new System.Drawing.Size(70, 70);
-            this.soal14.TabIndex = 15;
-            this.soal14.Text = "7";
-            this.soal14.UseVisualStyleBackColor = false;
-            this.soal14.Click += new System.EventHandler(this.soal14_Click);
-            // 
-            // soal13
-            // 
-            this.soal13.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.soal13.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.soal13.Location = new System.Drawing.Point(384, 79);
-            this.soal13.Name = "soal13";
-            this.soal13.Size = new System.Drawing.Size(70, 70);
-            this.soal13.TabIndex = 14;
-            this.soal13.Text = "6";
-            this.soal13.UseVisualStyleBackColor = false;
-            this.soal13.Click += new System.EventHandler(this.soal13_Click);
-            // 
-            // soal12
-            // 
-            this.soal12.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.soal12.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.soal12.Location = new System.Drawing.Point(308, 79);
-            this.soal12.Name = "soal12";
-            this.soal12.Size = new System.Drawing.Size(70, 70);
-            this.soal12.TabIndex = 13;
-            this.soal12.Text = "5";
-            this.soal12.UseVisualStyleBackColor = false;
-            this.soal12.Click += new System.EventHandler(this.soal12_Click);
-            // 
-            // soal11
-            // 
-            this.soal11.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.soal11.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.soal11.Location = new System.Drawing.Point(232, 79);
-            this.soal11.Name = "soal11";
-            this.soal11.Size = new System.Drawing.Size(70, 70);
-            this.soal11.TabIndex = 12;
-            this.soal11.Text = "4";
-            this.soal11.UseVisualStyleBackColor = false;
-            this.soal11.Click += new System.EventHandler(this.soal11_Click);
-            // 
-            // soal10
-            // 
-            this.soal10.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.soal10.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.soal10.Location = new System.Drawing.Point(155, 79);
-            this.soal10.Name = "soal10";
-            this.soal10.Size = new System.Drawing.Size(70, 70);
-            this.soal10.TabIndex = 11;
-            this.soal10.Text = "3";
-            this.soal10.UseVisualStyleBackColor = false;
-            this.soal10.Click += new System.EventHandler(this.soal10_Click);
-            // 
-            // soal9
-            // 
-            this.soal9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.soal9.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.soal9.Location = new System.Drawing.Point(79, 79);
-            this.soal9.Name = "soal9";
-            this.soal9.Size = new System.Drawing.Size(70, 70);
-            this.soal9.TabIndex = 10;
-            this.soal9.Text = "2";
-            this.soal9.UseVisualStyleBackColor = false;
-            this.soal9.Click += new System.EventHandler(this.soal9_Click);
-            // 
-            // soal8
-            // 
-            this.soal8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.soal8.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.soal8.Location = new System.Drawing.Point(3, 79);
-            this.soal8.Name = "soal8";
-            this.soal8.Size = new System.Drawing.Size(70, 70);
-            this.soal8.TabIndex = 9;
-            this.soal8.Text = "1";
-            this.soal8.UseVisualStyleBackColor = false;
-            this.soal8.Click += new System.EventHandler(this.soal8_Click);
-            // 
-            // soal28
-            // 
-            this.soal28.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.soal28.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.soal28.Location = new System.Drawing.Point(460, 231);
-            this.soal28.Name = "soal28";
-            this.soal28.Size = new System.Drawing.Size(70, 70);
-            this.soal28.TabIndex = 29;
-            this.soal28.Text = "7";
-            this.soal28.UseVisualStyleBackColor = false;
-            this.soal28.Click += new System.EventHandler(this.soal28_Click);
-            // 
-            // soal27
-            // 
-            this.soal27.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.soal27.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.soal27.Location = new System.Drawing.Point(384, 231);
-            this.soal27.Name = "soal27";
-            this.soal27.Size = new System.Drawing.Size(70, 70);
-            this.soal27.TabIndex = 28;
-            this.soal27.Text = "6";
-            this.soal27.UseVisualStyleBackColor = false;
-            this.soal27.Click += new System.EventHandler(this.soal27_Click);
-            // 
-            // soal26
-            // 
-            this.soal26.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.soal26.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.soal26.Location = new System.Drawing.Point(308, 231);
-            this.soal26.Name = "soal26";
-            this.soal26.Size = new System.Drawing.Size(70, 70);
-            this.soal26.TabIndex = 27;
-            this.soal26.Text = "5";
-            this.soal26.UseVisualStyleBackColor = false;
-            this.soal26.Click += new System.EventHandler(this.soal26_Click);
-            // 
-            // soal25
-            // 
-            this.soal25.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.soal25.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.soal25.Location = new System.Drawing.Point(232, 231);
-            this.soal25.Name = "soal25";
-            this.soal25.Size = new System.Drawing.Size(70, 70);
-            this.soal25.TabIndex = 26;
-            this.soal25.Text = "4";
-            this.soal25.UseVisualStyleBackColor = false;
-            this.soal25.Click += new System.EventHandler(this.soal25_Click);
-            // 
-            // soal24
-            // 
-            this.soal24.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.soal24.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.soal24.Location = new System.Drawing.Point(155, 231);
-            this.soal24.Name = "soal24";
-            this.soal24.Size = new System.Drawing.Size(70, 70);
-            this.soal24.TabIndex = 25;
-            this.soal24.Text = "3";
-            this.soal24.UseVisualStyleBackColor = false;
-            this.soal24.Click += new System.EventHandler(this.soal24_Click);
-            // 
-            // soal23
-            // 
-            this.soal23.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.soal23.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.soal23.Location = new System.Drawing.Point(79, 231);
-            this.soal23.Name = "soal23";
-            this.soal23.Size = new System.Drawing.Size(70, 70);
-            this.soal23.TabIndex = 24;
-            this.soal23.Text = "2";
-            this.soal23.UseVisualStyleBackColor = false;
-            this.soal23.Click += new System.EventHandler(this.soal23_Click);
-            // 
-            // soal22
-            // 
-            this.soal22.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.soal22.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.soal22.Location = new System.Drawing.Point(3, 231);
-            this.soal22.Name = "soal22";
-            this.soal22.Size = new System.Drawing.Size(70, 70);
-            this.soal22.TabIndex = 23;
-            this.soal22.Text = "1";
-            this.soal22.UseVisualStyleBackColor = false;
-            this.soal22.Click += new System.EventHandler(this.soal22_Click);
-            // 
-            // soal21
-            // 
-            this.soal21.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.soal21.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.soal21.Location = new System.Drawing.Point(460, 155);
-            this.soal21.Name = "soal21";
-            this.soal21.Size = new System.Drawing.Size(70, 70);
-            this.soal21.TabIndex = 22;
-            this.soal21.Text = "7";
-            this.soal21.UseVisualStyleBackColor = false;
-            this.soal21.Click += new System.EventHandler(this.soal21_Click);
-            // 
-            // soal20
-            // 
-            this.soal20.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.soal20.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.soal20.Location = new System.Drawing.Point(384, 155);
-            this.soal20.Name = "soal20";
-            this.soal20.Size = new System.Drawing.Size(70, 70);
-            this.soal20.TabIndex = 21;
-            this.soal20.Text = "6";
-            this.soal20.UseVisualStyleBackColor = false;
-            this.soal20.Click += new System.EventHandler(this.soal20_Click);
-            // 
-            // soal19
-            // 
-            this.soal19.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.soal19.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.soal19.Location = new System.Drawing.Point(308, 155);
-            this.soal19.Name = "soal19";
-            this.soal19.Size = new System.Drawing.Size(70, 70);
-            this.soal19.TabIndex = 20;
-            this.soal19.Text = "5";
-            this.soal19.UseVisualStyleBackColor = false;
-            this.soal19.Click += new System.EventHandler(this.soal19_Click);
-            // 
-            // soal18
-            // 
-            this.soal18.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.soal18.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.soal18.Location = new System.Drawing.Point(232, 155);
-            this.soal18.Name = "soal18";
-            this.soal18.Size = new System.Drawing.Size(70, 70);
-            this.soal18.TabIndex = 19;
-            this.soal18.Text = "4";
-            this.soal18.UseVisualStyleBackColor = false;
-            this.soal18.Click += new System.EventHandler(this.soal18_Click);
-            // 
-            // soal17
-            // 
-            this.soal17.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.soal17.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.soal17.Location = new System.Drawing.Point(155, 155);
-            this.soal17.Name = "soal17";
-            this.soal17.Size = new System.Drawing.Size(70, 70);
-            this.soal17.TabIndex = 18;
-            this.soal17.Text = "3";
-            this.soal17.UseVisualStyleBackColor = false;
-            this.soal17.Click += new System.EventHandler(this.soal17_Click);
-            // 
-            // soal16
-            // 
-            this.soal16.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.soal16.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.soal16.Location = new System.Drawing.Point(79, 155);
-            this.soal16.Name = "soal16";
-            this.soal16.Size = new System.Drawing.Size(70, 70);
-            this.soal16.TabIndex = 17;
-            this.soal16.Text = "2";
-            this.soal16.UseVisualStyleBackColor = false;
-            this.soal16.Click += new System.EventHandler(this.soal16_Click);
-            // 
-            // soal15
-            // 
-            this.soal15.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.soal15.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.soal15.Location = new System.Drawing.Point(3, 155);
-            this.soal15.Name = "soal15";
-            this.soal15.Size = new System.Drawing.Size(70, 70);
-            this.soal15.TabIndex = 16;
-            this.soal15.Text = "1";
-            this.soal15.UseVisualStyleBackColor = false;
-            this.soal15.Click += new System.EventHandler(this.soal15_Click);
+            this.soal43.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.soal43.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.soal43.Location = new System.Drawing.Point(3, 459);
+            this.soal43.Name = "soal43";
+            this.soal43.Size = new System.Drawing.Size(70, 70);
+            this.soal43.TabIndex = 44;
+            this.soal43.Text = "1";
+            this.soal43.UseVisualStyleBackColor = false;
+            this.soal43.Click += new System.EventHandler(this.soal43_Click);
             // 
             // soal42
             // 
@@ -659,89 +394,354 @@ namespace WindowsFormsApp1
             this.soal29.UseVisualStyleBackColor = false;
             this.soal29.Click += new System.EventHandler(this.soal29_Click);
             // 
-            // soal49
+            // soal28
             // 
-            this.soal49.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.soal49.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.soal49.Location = new System.Drawing.Point(460, 459);
-            this.soal49.Name = "soal49";
-            this.soal49.Size = new System.Drawing.Size(70, 70);
-            this.soal49.TabIndex = 50;
-            this.soal49.Text = "7";
-            this.soal49.UseVisualStyleBackColor = false;
-            this.soal49.Click += new System.EventHandler(this.soal49_Click);
+            this.soal28.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.soal28.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.soal28.Location = new System.Drawing.Point(460, 231);
+            this.soal28.Name = "soal28";
+            this.soal28.Size = new System.Drawing.Size(70, 70);
+            this.soal28.TabIndex = 29;
+            this.soal28.Text = "7";
+            this.soal28.UseVisualStyleBackColor = false;
+            this.soal28.Click += new System.EventHandler(this.soal28_Click);
             // 
-            // soal48
+            // soal27
             // 
-            this.soal48.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.soal48.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.soal48.Location = new System.Drawing.Point(384, 459);
-            this.soal48.Name = "soal48";
-            this.soal48.Size = new System.Drawing.Size(70, 70);
-            this.soal48.TabIndex = 49;
-            this.soal48.Text = "6";
-            this.soal48.UseVisualStyleBackColor = false;
-            this.soal48.Click += new System.EventHandler(this.soal48_Click);
+            this.soal27.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.soal27.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.soal27.Location = new System.Drawing.Point(384, 231);
+            this.soal27.Name = "soal27";
+            this.soal27.Size = new System.Drawing.Size(70, 70);
+            this.soal27.TabIndex = 28;
+            this.soal27.Text = "6";
+            this.soal27.UseVisualStyleBackColor = false;
+            this.soal27.Click += new System.EventHandler(this.soal27_Click);
             // 
-            // soal47
+            // soal26
             // 
-            this.soal47.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.soal47.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.soal47.Location = new System.Drawing.Point(308, 459);
-            this.soal47.Name = "soal47";
-            this.soal47.Size = new System.Drawing.Size(70, 70);
-            this.soal47.TabIndex = 48;
-            this.soal47.Text = "5";
-            this.soal47.UseVisualStyleBackColor = false;
-            this.soal47.Click += new System.EventHandler(this.soal47_Click);
+            this.soal26.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.soal26.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.soal26.Location = new System.Drawing.Point(308, 231);
+            this.soal26.Name = "soal26";
+            this.soal26.Size = new System.Drawing.Size(70, 70);
+            this.soal26.TabIndex = 27;
+            this.soal26.Text = "5";
+            this.soal26.UseVisualStyleBackColor = false;
+            this.soal26.Click += new System.EventHandler(this.soal26_Click);
             // 
-            // soal46
+            // soal25
             // 
-            this.soal46.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.soal46.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.soal46.Location = new System.Drawing.Point(232, 459);
-            this.soal46.Name = "soal46";
-            this.soal46.Size = new System.Drawing.Size(70, 70);
-            this.soal46.TabIndex = 47;
-            this.soal46.Text = "4";
-            this.soal46.UseVisualStyleBackColor = false;
-            this.soal46.Click += new System.EventHandler(this.soal46_Click);
+            this.soal25.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.soal25.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.soal25.Location = new System.Drawing.Point(232, 231);
+            this.soal25.Name = "soal25";
+            this.soal25.Size = new System.Drawing.Size(70, 70);
+            this.soal25.TabIndex = 26;
+            this.soal25.Text = "4";
+            this.soal25.UseVisualStyleBackColor = false;
+            this.soal25.Click += new System.EventHandler(this.soal25_Click);
             // 
-            // soal45
+            // soal24
             // 
-            this.soal45.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.soal45.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.soal45.Location = new System.Drawing.Point(155, 459);
-            this.soal45.Name = "soal45";
-            this.soal45.Size = new System.Drawing.Size(70, 70);
-            this.soal45.TabIndex = 46;
-            this.soal45.Text = "3";
-            this.soal45.UseVisualStyleBackColor = false;
-            this.soal45.Click += new System.EventHandler(this.soal45_Click);
+            this.soal24.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.soal24.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.soal24.Location = new System.Drawing.Point(155, 231);
+            this.soal24.Name = "soal24";
+            this.soal24.Size = new System.Drawing.Size(70, 70);
+            this.soal24.TabIndex = 25;
+            this.soal24.Text = "3";
+            this.soal24.UseVisualStyleBackColor = false;
+            this.soal24.Click += new System.EventHandler(this.soal24_Click);
             // 
-            // soal44
+            // soal23
             // 
-            this.soal44.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.soal44.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.soal44.Location = new System.Drawing.Point(79, 459);
-            this.soal44.Name = "soal44";
-            this.soal44.Size = new System.Drawing.Size(70, 70);
-            this.soal44.TabIndex = 45;
-            this.soal44.Text = "2";
-            this.soal44.UseVisualStyleBackColor = false;
-            this.soal44.Click += new System.EventHandler(this.soal44_Click);
+            this.soal23.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.soal23.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.soal23.Location = new System.Drawing.Point(79, 231);
+            this.soal23.Name = "soal23";
+            this.soal23.Size = new System.Drawing.Size(70, 70);
+            this.soal23.TabIndex = 24;
+            this.soal23.Text = "2";
+            this.soal23.UseVisualStyleBackColor = false;
+            this.soal23.Click += new System.EventHandler(this.soal23_Click);
             // 
-            // soal43
+            // soal22
             // 
-            this.soal43.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.soal43.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.soal43.Location = new System.Drawing.Point(3, 459);
-            this.soal43.Name = "soal43";
-            this.soal43.Size = new System.Drawing.Size(70, 70);
-            this.soal43.TabIndex = 44;
-            this.soal43.Text = "1";
-            this.soal43.UseVisualStyleBackColor = false;
-            this.soal43.Click += new System.EventHandler(this.soal43_Click);
+            this.soal22.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.soal22.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.soal22.Location = new System.Drawing.Point(3, 231);
+            this.soal22.Name = "soal22";
+            this.soal22.Size = new System.Drawing.Size(70, 70);
+            this.soal22.TabIndex = 23;
+            this.soal22.Text = "1";
+            this.soal22.UseVisualStyleBackColor = false;
+            this.soal22.Click += new System.EventHandler(this.soal22_Click);
+            // 
+            // soal21
+            // 
+            this.soal21.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.soal21.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.soal21.Location = new System.Drawing.Point(460, 155);
+            this.soal21.Name = "soal21";
+            this.soal21.Size = new System.Drawing.Size(70, 70);
+            this.soal21.TabIndex = 22;
+            this.soal21.Text = "7";
+            this.soal21.UseVisualStyleBackColor = false;
+            this.soal21.Click += new System.EventHandler(this.soal21_Click);
+            // 
+            // soal20
+            // 
+            this.soal20.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.soal20.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.soal20.Location = new System.Drawing.Point(384, 155);
+            this.soal20.Name = "soal20";
+            this.soal20.Size = new System.Drawing.Size(70, 70);
+            this.soal20.TabIndex = 21;
+            this.soal20.Text = "6";
+            this.soal20.UseVisualStyleBackColor = false;
+            this.soal20.Click += new System.EventHandler(this.soal20_Click);
+            // 
+            // soal19
+            // 
+            this.soal19.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.soal19.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.soal19.Location = new System.Drawing.Point(308, 155);
+            this.soal19.Name = "soal19";
+            this.soal19.Size = new System.Drawing.Size(70, 70);
+            this.soal19.TabIndex = 20;
+            this.soal19.Text = "5";
+            this.soal19.UseVisualStyleBackColor = false;
+            this.soal19.Click += new System.EventHandler(this.soal19_Click);
+            // 
+            // soal18
+            // 
+            this.soal18.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.soal18.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.soal18.Location = new System.Drawing.Point(232, 155);
+            this.soal18.Name = "soal18";
+            this.soal18.Size = new System.Drawing.Size(70, 70);
+            this.soal18.TabIndex = 19;
+            this.soal18.Text = "4";
+            this.soal18.UseVisualStyleBackColor = false;
+            this.soal18.Click += new System.EventHandler(this.soal18_Click);
+            // 
+            // soal17
+            // 
+            this.soal17.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.soal17.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.soal17.Location = new System.Drawing.Point(155, 155);
+            this.soal17.Name = "soal17";
+            this.soal17.Size = new System.Drawing.Size(70, 70);
+            this.soal17.TabIndex = 18;
+            this.soal17.Text = "3";
+            this.soal17.UseVisualStyleBackColor = false;
+            this.soal17.Click += new System.EventHandler(this.soal17_Click);
+            // 
+            // soal16
+            // 
+            this.soal16.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.soal16.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.soal16.Location = new System.Drawing.Point(79, 155);
+            this.soal16.Name = "soal16";
+            this.soal16.Size = new System.Drawing.Size(70, 70);
+            this.soal16.TabIndex = 17;
+            this.soal16.Text = "2";
+            this.soal16.UseVisualStyleBackColor = false;
+            this.soal16.Click += new System.EventHandler(this.soal16_Click);
+            // 
+            // soal15
+            // 
+            this.soal15.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.soal15.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.soal15.Location = new System.Drawing.Point(3, 155);
+            this.soal15.Name = "soal15";
+            this.soal15.Size = new System.Drawing.Size(70, 70);
+            this.soal15.TabIndex = 16;
+            this.soal15.Text = "1";
+            this.soal15.UseVisualStyleBackColor = false;
+            this.soal15.Click += new System.EventHandler(this.soal15_Click);
+            // 
+            // soal14
+            // 
+            this.soal14.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.soal14.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.soal14.Location = new System.Drawing.Point(460, 79);
+            this.soal14.Name = "soal14";
+            this.soal14.Size = new System.Drawing.Size(70, 70);
+            this.soal14.TabIndex = 15;
+            this.soal14.Text = "7";
+            this.soal14.UseVisualStyleBackColor = false;
+            this.soal14.Click += new System.EventHandler(this.soal14_Click);
+            // 
+            // soal13
+            // 
+            this.soal13.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.soal13.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.soal13.Location = new System.Drawing.Point(384, 79);
+            this.soal13.Name = "soal13";
+            this.soal13.Size = new System.Drawing.Size(70, 70);
+            this.soal13.TabIndex = 14;
+            this.soal13.Text = "6";
+            this.soal13.UseVisualStyleBackColor = false;
+            this.soal13.Click += new System.EventHandler(this.soal13_Click);
+            // 
+            // soal12
+            // 
+            this.soal12.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.soal12.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.soal12.Location = new System.Drawing.Point(308, 79);
+            this.soal12.Name = "soal12";
+            this.soal12.Size = new System.Drawing.Size(70, 70);
+            this.soal12.TabIndex = 13;
+            this.soal12.Text = "5";
+            this.soal12.UseVisualStyleBackColor = false;
+            this.soal12.Click += new System.EventHandler(this.soal12_Click);
+            // 
+            // soal11
+            // 
+            this.soal11.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.soal11.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.soal11.Location = new System.Drawing.Point(232, 79);
+            this.soal11.Name = "soal11";
+            this.soal11.Size = new System.Drawing.Size(70, 70);
+            this.soal11.TabIndex = 12;
+            this.soal11.Text = "4";
+            this.soal11.UseVisualStyleBackColor = false;
+            this.soal11.Click += new System.EventHandler(this.soal11_Click);
+            // 
+            // soal10
+            // 
+            this.soal10.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.soal10.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.soal10.Location = new System.Drawing.Point(155, 79);
+            this.soal10.Name = "soal10";
+            this.soal10.Size = new System.Drawing.Size(70, 70);
+            this.soal10.TabIndex = 11;
+            this.soal10.Text = "3";
+            this.soal10.UseVisualStyleBackColor = false;
+            this.soal10.Click += new System.EventHandler(this.soal10_Click);
+            // 
+            // soal9
+            // 
+            this.soal9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.soal9.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.soal9.Location = new System.Drawing.Point(79, 79);
+            this.soal9.Name = "soal9";
+            this.soal9.Size = new System.Drawing.Size(70, 70);
+            this.soal9.TabIndex = 10;
+            this.soal9.Text = "2";
+            this.soal9.UseVisualStyleBackColor = false;
+            this.soal9.Click += new System.EventHandler(this.soal9_Click);
+            // 
+            // soal8
+            // 
+            this.soal8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.soal8.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.soal8.Location = new System.Drawing.Point(3, 79);
+            this.soal8.Name = "soal8";
+            this.soal8.Size = new System.Drawing.Size(70, 70);
+            this.soal8.TabIndex = 9;
+            this.soal8.Text = "1";
+            this.soal8.UseVisualStyleBackColor = false;
+            this.soal8.Click += new System.EventHandler(this.soal8_Click);
+            // 
+            // soal7
+            // 
+            this.soal7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.soal7.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.soal7.Location = new System.Drawing.Point(460, 3);
+            this.soal7.Name = "soal7";
+            this.soal7.Size = new System.Drawing.Size(70, 70);
+            this.soal7.TabIndex = 8;
+            this.soal7.Text = "7";
+            this.soal7.UseVisualStyleBackColor = false;
+            this.soal7.Click += new System.EventHandler(this.soal7_Click);
+            // 
+            // soal6
+            // 
+            this.soal6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.soal6.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.soal6.Location = new System.Drawing.Point(384, 3);
+            this.soal6.Name = "soal6";
+            this.soal6.Size = new System.Drawing.Size(70, 70);
+            this.soal6.TabIndex = 7;
+            this.soal6.Text = "6";
+            this.soal6.UseVisualStyleBackColor = false;
+            this.soal6.Click += new System.EventHandler(this.soal6_Click);
+            // 
+            // soal5
+            // 
+            this.soal5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.soal5.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.soal5.Location = new System.Drawing.Point(308, 3);
+            this.soal5.Name = "soal5";
+            this.soal5.Size = new System.Drawing.Size(70, 70);
+            this.soal5.TabIndex = 6;
+            this.soal5.Text = "5";
+            this.soal5.UseVisualStyleBackColor = false;
+            this.soal5.Click += new System.EventHandler(this.soal5_Click);
+            // 
+            // soal4
+            // 
+            this.soal4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.soal4.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.soal4.Location = new System.Drawing.Point(232, 3);
+            this.soal4.Name = "soal4";
+            this.soal4.Size = new System.Drawing.Size(70, 70);
+            this.soal4.TabIndex = 5;
+            this.soal4.Text = "4";
+            this.soal4.UseVisualStyleBackColor = false;
+            this.soal4.Click += new System.EventHandler(this.soal4_Click);
+            // 
+            // soal3
+            // 
+            this.soal3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.soal3.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.soal3.Location = new System.Drawing.Point(155, 3);
+            this.soal3.Name = "soal3";
+            this.soal3.Size = new System.Drawing.Size(70, 70);
+            this.soal3.TabIndex = 4;
+            this.soal3.Text = "3";
+            this.soal3.UseVisualStyleBackColor = false;
+            this.soal3.Click += new System.EventHandler(this.soal3_Click);
+            // 
+            // soal2
+            // 
+            this.soal2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.soal2.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.soal2.Location = new System.Drawing.Point(79, 3);
+            this.soal2.Name = "soal2";
+            this.soal2.Size = new System.Drawing.Size(70, 70);
+            this.soal2.TabIndex = 3;
+            this.soal2.Text = "2";
+            this.soal2.UseVisualStyleBackColor = false;
+            this.soal2.Click += new System.EventHandler(this.soal2_Click);
+            // 
+            // soal1
+            // 
+            this.soal1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.soal1.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.soal1.Location = new System.Drawing.Point(3, 3);
+            this.soal1.Name = "soal1";
+            this.soal1.Size = new System.Drawing.Size(70, 70);
+            this.soal1.TabIndex = 2;
+            this.soal1.Text = "1";
+            this.soal1.UseVisualStyleBackColor = false;
+            this.soal1.Click += new System.EventHandler(this.soal1_Click);
+            // 
+            // btnRefresh
+            // 
+            this.btnRefresh.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btnRefresh.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnRefresh.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.btnRefresh.Location = new System.Drawing.Point(1126, 47);
+            this.btnRefresh.Name = "btnRefresh";
+            this.btnRefresh.Size = new System.Drawing.Size(178, 50);
+            this.btnRefresh.TabIndex = 1;
+            this.btnRefresh.Text = "Refresh";
+            this.btnRefresh.UseVisualStyleBackColor = false;
+            this.btnRefresh.Click += new System.EventHandler(this.btnRefresh_Click);
             // 
             // Form1
             // 
@@ -752,7 +752,8 @@ namespace WindowsFormsApp1
             this.Controls.Add(this.panel1);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form1";
+            this.Text = "Bingo";
+            this.Load += new System.EventHandler(this.Form1_Load_1);
             this.panel1.ResumeLayout(false);
             this.ResumeLayout(false);
 

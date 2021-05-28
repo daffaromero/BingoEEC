@@ -82,7 +82,7 @@ namespace WindowsFormsApp1
                 soal1.BackColor = Color.Red;
            
             // DONT TRY THIS AT HOME
-            // asu -dafrom
+            // Arizona State University -Dafrom
             //2
             if (s2.benar == 1)
                 soal2.BackColor = Color.Lime;
@@ -91,45 +91,45 @@ namespace WindowsFormsApp1
 
 
             ////3
-            //if (s3.benar == 1)
-            //    soal3.BackColor = Color.Lime;
-            //else if (s3.benar == 2)
-            //    soal3.BackColor = Color.Red;
+            if (s3.benar == 1)
+                soal3.BackColor = Color.Lime;
+            else if (s3.benar == 2)
+                soal3.BackColor = Color.Red;
 
             ////4
-            //if (s4.benar == 1)
-            //    soal4.BackColor = Color.Lime;
-            //else if (s4.benar == 2)
-            //    soal4.BackColor = Color.Red;
+            if (s4.benar == 1)
+                soal4.BackColor = Color.Lime;
+            else if (s4.benar == 2)
+                soal4.BackColor = Color.Red;
 
             ////5
-            //if (s5.benar == 1)
-            //    soal5.BackColor = Color.Lime;
-            //else if (s5.benar == 2)
-            //    soal5.BackColor = Color.Red;
+            if (s5.benar == 1)
+                soal5.BackColor = Color.Lime;
+            else if (s5.benar == 2)
+                soal5.BackColor = Color.Red;
 
             ////6
-            //if (s6.benar == 1)
-            //    soal6.BackColor = Color.Lime;
-            //else if (s6.benar == 2)
-            //    soal6.BackColor = Color.Red;
+            if (s6.benar == 1)
+                soal6.BackColor = Color.Lime;
+            else if (s6.benar == 2)
+                soal6.BackColor = Color.Red;
             ////7
-            //if (s7.benar == 1)
-            //    soal7.BackColor = Color.Lime;
-            //else if (s7.benar == 2)
-            //    soal7.BackColor = Color.Red;
+            if (s7.benar == 1)
+                soal7.BackColor = Color.Lime;
+            else if (s7.benar == 2)
+                soal7.BackColor = Color.Red;
 
             ////8
-            //if (s8.benar == 1)
-            //    soal8.BackColor = Color.Lime;
-            //else if (s8.benar == 2)
-            //    soal8.BackColor = Color.Red;
+            if (s8.benar == 1)
+                soal8.BackColor = Color.Lime;
+            else if (s8.benar == 2)
+                soal8.BackColor = Color.Red;
 
             ////9
-            //if (s9.benar == 1)
-            //    soal9.BackColor = Color.Lime;
-            //else if (s9.benar == 2)
-            //    soal9.BackColor = Color.Red;
+            if (s9.benar == 1)
+                soal9.BackColor = Color.Lime;
+            else if (s9.benar == 2)
+                soal9.BackColor = Color.Red;
 
             //10
             if (s10.benar == 1)
@@ -232,23 +232,23 @@ namespace WindowsFormsApp1
             else if (s26.benar == 2)
                 soal26.BackColor = Color.Red;
 
-            ////27
-            //if (s27.benar == 1)
-            //    soal27.BackColor = Color.Lime;
-            //else if (s27.benar == 2)
-            //    soal27.BackColor = Color.Red;
+            //27
+            if (s27.benar == 1)
+                soal27.BackColor = Color.Lime;
+            else if (s27.benar == 2)
+                soal27.BackColor = Color.Red;
 
-            ////28
-            //if (s28.benar == 1)
-            //    soal28.BackColor = Color.Lime;
-            //else if (s28.benar == 2)
-            //    soal28.BackColor = Color.Red;
+            //28
+            if (s28.benar == 1)
+                soal28.BackColor = Color.Lime;
+            else if (s28.benar == 2)
+                soal28.BackColor = Color.Red;
 
-            ////29
-            //if (s29.benar == 1)
-            //    soal29.BackColor = Color.Lime;
-            //else if (s29.benar == 2)
-            //    soal29.BackColor = Color.Red;
+            //29
+            if (s29.benar == 1)
+                soal29.BackColor = Color.Lime;
+            else if (s29.benar == 2)
+                soal29.BackColor = Color.Red;
 
             //30
             if (s30.benar == 1)
@@ -262,113 +262,113 @@ namespace WindowsFormsApp1
             else if (s31.benar == 2)
                 soal31.BackColor = Color.Red;
 
-            ////32
-            //if (s32.benar == 1)
-            //    soal32.BackColor = Color.Lime;
-            //else if (s32.benar == 2)
-            //    soal32.BackColor = Color.Red;
+            //32
+            if (s32.benar == 1)
+                soal32.BackColor = Color.Lime;
+            else if (s32.benar == 2)
+                soal32.BackColor = Color.Red;
 
-            ////33
-            //if (s33.benar == 1)
-            //    soal33.BackColor = Color.Lime;
-            //else if (s33.benar == 2)
-            //    soal33.BackColor = Color.Red;
+            //33
+            if (s33.benar == 1)
+                soal33.BackColor = Color.Lime;
+            else if (s33.benar == 2)
+                soal33.BackColor = Color.Red;
 
-            ////34
-            //if (s34.benar == 1)
-            //    soal34.BackColor = Color.Lime;
-            //else if (s34.benar == 2)
-            //    soal34.BackColor = Color.Red;
+            //34
+            if (s34.benar == 1)
+                soal34.BackColor = Color.Lime;
+            else if (s34.benar == 2)
+                soal34.BackColor = Color.Red;
 
-            ////35
-            //if (s35.benar == 1)
-            //    soal35.BackColor = Color.Lime;
-            //else if (s35.benar == 2)
-            //    soal35.BackColor = Color.Red;
+            //35
+            if (s35.benar == 1)
+                soal35.BackColor = Color.Lime;
+            else if (s35.benar == 2)
+                soal35.BackColor = Color.Red;
 
-            ////36
-            //if (s36.benar == 1)
-            //    soal36.BackColor = Color.Lime;
-            //else if (s36.benar == 2)
-            //    soal36.BackColor = Color.Red;
+            //36
+            if (s36.benar == 1)
+                soal36.BackColor = Color.Lime;
+            else if (s36.benar == 2)
+                soal36.BackColor = Color.Red;
 
-            ////37
-            //if (s37.benar == 1)
-            //    soal37.BackColor = Color.Lime;
-            //else if (s7.benar == 2)
-            //    soal37.BackColor = Color.Red;
+            //37
+            if (s37.benar == 1)
+                soal37.BackColor = Color.Lime;
+            else if (s7.benar == 2)
+                soal37.BackColor = Color.Red;
 
-            ////38
-            //if (s38.benar == 1)
-            //    soal38.BackColor = Color.Lime;
-            //else if (s38.benar == 2)
-            //    soal38.BackColor = Color.Red;
+            //38
+            if (s38.benar == 1)
+                soal38.BackColor = Color.Lime;
+            else if (s38.benar == 2)
+                soal38.BackColor = Color.Red;
 
-            ////39
-            //if (s39.benar == 1)
-            //    soal39.BackColor = Color.Lime;
-            //else if (s39.benar == 2)
-            //    soal39.BackColor = Color.Red;
+            //39
+            if (s39.benar == 1)
+                soal39.BackColor = Color.Lime;
+            else if (s39.benar == 2)
+                soal39.BackColor = Color.Red;
 
             ////40
-            //if (s40.benar == 1)
-            //    soal40.BackColor = Color.Lime;
-            //else if (s40.benar == 2)
-            //    soal40.BackColor = Color.Red;
+            if (s40.benar == 1)
+                soal40.BackColor = Color.Lime;
+            else if (s40.benar == 2)
+                soal40.BackColor = Color.Red;
 
             ////41
-            //if (s41.benar == 1)
-            //    soal41.BackColor = Color.Lime;
-            //else if (s41.benar == 2)
-            //    soal41.BackColor = Color.Red;
+            if (s41.benar == 1)
+                soal41.BackColor = Color.Lime;
+            else if (s41.benar == 2)
+                soal41.BackColor = Color.Red;
 
             ////42
-            //if (s42.benar == 1)
-            //    soal42.BackColor = Color.Lime;
-            //else if (s42.benar == 2)
-            //    soal42.BackColor = Color.Red;
+            if (s42.benar == 1)
+                soal42.BackColor = Color.Lime;
+            else if (s42.benar == 2)
+                soal42.BackColor = Color.Red;
 
             ////43
-            //if (s43.benar == 1)
-            //    soal43.BackColor = Color.Lime;
-            //else if (s43.benar == 2)
-            //    soal43.BackColor = Color.Red;
+            if (s43.benar == 1)
+                soal43.BackColor = Color.Lime;
+            else if (s43.benar == 2)
+                soal43.BackColor = Color.Red;
 
             ////44
-            //if (s44.benar == 1)
-            //    soal44.BackColor = Color.Lime;
-            //else if (s44.benar == 2)
-            //    soal44.BackColor = Color.Red;
+            if (s44.benar == 1)
+                soal44.BackColor = Color.Lime;
+            else if (s44.benar == 2)
+                soal44.BackColor = Color.Red;
 
-            ////45
-            //if (s45.benar == 1)
-            //    soal45.BackColor = Color.Lime;
-            //else if (s45.benar == 2)
-            //    soal45.BackColor = Color.Red;
+            //45
+            if (s45.benar == 1)
+                soal45.BackColor = Color.Lime;
+            else if (s45.benar == 2)
+                soal45.BackColor = Color.Red;
 
-            ////46
-            //if (s46.benar == 1)
-            //    soal46.BackColor = Color.Lime;
-            //else if (s46.benar == 2)
-            //    soal46.BackColor = Color.Red;
+            //46
+            if (s46.benar == 1)
+                soal46.BackColor = Color.Lime;
+            else if (s46.benar == 2)
+                soal46.BackColor = Color.Red;
 
-            ////47
-            //if (s47.benar == 1)
-            //    soal47.BackColor = Color.Lime;
-            //else if (s47.benar == 2)
-            //    soal47.BackColor = Color.Red;
+            //47
+            if (s47.benar == 1)
+                soal47.BackColor = Color.Lime;
+            else if (s47.benar == 2)
+                soal47.BackColor = Color.Red;
 
-            ////48
-            //if (s48.benar == 1)
-            //    soal48.BackColor = Color.Lime;
-            //else if (s48.benar == 2)
-            //    soal48.BackColor = Color.Red;
+            //48
+            if (s48.benar == 1)
+                soal48.BackColor = Color.Lime;
+            else if (s48.benar == 2)
+                soal48.BackColor = Color.Red;
 
-            ////49
-            //if (s49.benar == 1)
-            //    soal49.BackColor = Color.Lime;
-            //else if (s49.benar == 2)
-            //    soal49.BackColor = Color.Red;
+            //49
+            if (s49.benar == 1)
+                soal49.BackColor = Color.Lime;
+            else if (s49.benar == 2)
+                soal49.BackColor = Color.Red;
 
 
 
@@ -391,37 +391,37 @@ namespace WindowsFormsApp1
 
         private void soal3_Click(object sender, EventArgs e)
         {
-
+            s3.ShowDialog();
         }
 
         private void soal4_Click(object sender, EventArgs e)
         {
-
+            s4.ShowDialog();
         }
 
         private void soal5_Click(object sender, EventArgs e)
         {
-
+            s5.ShowDialog();
         }
 
         private void soal6_Click(object sender, EventArgs e)
         {
-
+            s6.ShowDialog();
         }
 
         private void soal7_Click(object sender, EventArgs e)
         {
-
+            s7.ShowDialog();
         }
 
         private void soal8_Click(object sender, EventArgs e)
         {
-
+            s8.ShowDialog();
         }
 
         private void soal9_Click(object sender, EventArgs e)
         {
-
+            s9.ShowDialog();
         }
 
         private void soal11_Click(object sender, EventArgs e)
@@ -506,17 +506,17 @@ namespace WindowsFormsApp1
 
         private void soal27_Click(object sender, EventArgs e)
         {
-
+            s27.ShowDialog();
         }
 
         private void soal28_Click(object sender, EventArgs e)
         {
-
+            s28.ShowDialog();
         }
 
         private void soal29_Click(object sender, EventArgs e)
         {
-
+            s29.ShowDialog();
         }
 
         private void soal30_Click(object sender, EventArgs e)
@@ -531,90 +531,95 @@ namespace WindowsFormsApp1
 
         private void soal32_Click(object sender, EventArgs e)
         {
-
+            s32.ShowDialog();
         }
 
         private void soal33_Click(object sender, EventArgs e)
         {
-
+            s33.ShowDialog();
         }
 
         private void soal34_Click(object sender, EventArgs e)
         {
-
+            s34.ShowDialog();
         }
 
         private void soal35_Click(object sender, EventArgs e)
         {
-
+            s35.ShowDialog();
         }
 
         private void soal36_Click(object sender, EventArgs e)
         {
-
+            s36.ShowDialog();
         }
 
         private void soal37_Click(object sender, EventArgs e)
         {
-
+            s37.ShowDialog();
         }
 
         private void soal38_Click(object sender, EventArgs e)
         {
-
+            s38.ShowDialog();
         }
 
         private void soal39_Click(object sender, EventArgs e)
         {
-
+            s39.ShowDialog();
         }
 
         private void soal40_Click(object sender, EventArgs e)
         {
-
+            s40.ShowDialog();
         }
 
         private void soal41_Click(object sender, EventArgs e)
         {
-
+            s41.ShowDialog();
         }
 
         private void soal42_Click(object sender, EventArgs e)
         {
-
+            s42.ShowDialog();
         }
 
         private void soal43_Click(object sender, EventArgs e)
         {
-
+            s43.ShowDialog();
         }
 
         private void soal44_Click(object sender, EventArgs e)
         {
-
+            s44.ShowDialog();
         }
 
         private void soal45_Click(object sender, EventArgs e)
         {
-
+            s45.ShowDialog();
         }
 
         private void soal46_Click(object sender, EventArgs e)
         {
-
+            s46.ShowDialog();
         }
 
         private void soal47_Click(object sender, EventArgs e)
         {
-
+            s47.ShowDialog();
         }
 
         private void soal48_Click(object sender, EventArgs e)
         {
-
+            s48.ShowDialog();
         }
 
         private void soal49_Click(object sender, EventArgs e)
+        {
+            s49.ShowDialog();
+        }
+
+        private void Form1_Load_1(object sender, EventArgs e)
         {
 
         }

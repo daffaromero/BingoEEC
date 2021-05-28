@@ -12,6 +12,11 @@ namespace WindowsFormsApp1
 {
     public partial class s6 : Form
     {
+        
+        public int benar = 0;
+        System.Timers.Timer t;
+        int m = 0, s = 60;
+        
         public s6()
         {
             InitializeComponent();
@@ -19,27 +24,44 @@ namespace WindowsFormsApp1
 
         private void s6_Load(object sender, EventArgs e)
         {
-
+            t = new System.Timers.Timer();
+            t.Interval = 1000; //1s
+            t.Elapsed += OnTimeEvent;
+            t.Start();
         }
 
         private void btnBenar_Click(object sender, EventArgs e)
         {
-
+            t.Stop();
+            s = 60;
+            this.benar = 1;
         }
 
         private void btnSalah_Click(object sender, EventArgs e)
         {
-
+            t.Stop();
+            s = 60;
+            this.benar = 2;
         }
 
         private void btnStart_Click(object sender, EventArgs e)
         {
-
+            s = 60;
+            t.Start();
         }
 
         private void btnStop_Click(object sender, EventArgs e)
         {
+            t.Stop();
+        }
 
+        private void OnTimeEvent(object sender, System.Timers.ElapsedEventArgs e)
+        {
+            Invoke(new Action(() =>
+            {
+                s -= 1;
+                tbTimer.Text = string.Format("{0}:{1}", m.ToString().PadLeft(2, '0'), s.ToString().PadLeft(2, '0'));
+            }));
         }
     }
 }
