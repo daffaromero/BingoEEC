@@ -10,10 +10,9 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp1
 {
-    public partial class s1 : Form
+    public partial class s10 : Form
     {
-
-        public s1()
+        public s10()
         {
             InitializeComponent();
         }
@@ -22,7 +21,7 @@ namespace WindowsFormsApp1
         System.Timers.Timer t;
         int m = 0, s = 60;
 
-        private void s1_Load(object sender, EventArgs e)
+        private void s10_Load(object sender, EventArgs e)
         {
             t = new System.Timers.Timer();
             t.Interval = 1000; //1s
@@ -44,6 +43,7 @@ namespace WindowsFormsApp1
             t.Stop();
             s = 60;
             this.benar = 1;
+
         }
 
         private void btnStart_Click(object sender, EventArgs e)
@@ -62,7 +62,7 @@ namespace WindowsFormsApp1
             t.Stop();
             s = 60;
             this.benar = 2;
-        }
 
+        }
     }
 }

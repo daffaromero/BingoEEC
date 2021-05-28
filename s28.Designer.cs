@@ -1,7 +1,7 @@
 ﻿
 namespace WindowsFormsApp1
 {
-    partial class s2
+    partial class s28
     {
         /// <summary>
         /// Required designer variable.
@@ -29,51 +29,59 @@ namespace WindowsFormsApp1
         /// </summary>
         private void InitializeComponent()
         {
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.btnStop = new System.Windows.Forms.Button();
             this.btnStart = new System.Windows.Forms.Button();
             this.btnSalah = new System.Windows.Forms.Button();
             this.btnBenar = new System.Windows.Forms.Button();
             this.tbTimer = new System.Windows.Forms.TextBox();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Location = new System.Drawing.Point(21, 22);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(1085, 557);
+            this.pictureBox1.TabIndex = 28;
+            this.pictureBox1.TabStop = false;
+            // 
             // btnStop
             // 
-            this.btnStop.Location = new System.Drawing.Point(1234, 78);
+            this.btnStop.Location = new System.Drawing.Point(1225, 73);
             this.btnStop.Name = "btnStop";
             this.btnStop.Size = new System.Drawing.Size(73, 27);
-            this.btnStop.TabIndex = 9;
+            this.btnStop.TabIndex = 27;
             this.btnStop.Text = "Stop Timer";
             this.btnStop.UseVisualStyleBackColor = true;
             this.btnStop.Click += new System.EventHandler(this.btnStop_Click);
             // 
             // btnStart
             // 
-            this.btnStart.Location = new System.Drawing.Point(1139, 78);
+            this.btnStart.Location = new System.Drawing.Point(1130, 73);
             this.btnStart.Name = "btnStart";
             this.btnStart.Size = new System.Drawing.Size(73, 27);
-            this.btnStart.TabIndex = 8;
+            this.btnStart.TabIndex = 26;
             this.btnStart.Text = "Start Timer";
             this.btnStart.UseVisualStyleBackColor = true;
             this.btnStart.Click += new System.EventHandler(this.btnStart_Click);
             // 
             // btnSalah
             // 
-            this.btnSalah.Location = new System.Drawing.Point(713, 632);
+            this.btnSalah.Location = new System.Drawing.Point(704, 627);
             this.btnSalah.Name = "btnSalah";
             this.btnSalah.Size = new System.Drawing.Size(102, 45);
-            this.btnSalah.TabIndex = 7;
+            this.btnSalah.TabIndex = 25;
             this.btnSalah.Text = "Salah";
             this.btnSalah.UseVisualStyleBackColor = true;
             this.btnSalah.Click += new System.EventHandler(this.btnSalah_Click);
             // 
             // btnBenar
             // 
-            this.btnBenar.Location = new System.Drawing.Point(273, 632);
+            this.btnBenar.Location = new System.Drawing.Point(264, 627);
             this.btnBenar.Name = "btnBenar";
             this.btnBenar.Size = new System.Drawing.Size(102, 45);
-            this.btnBenar.TabIndex = 6;
+            this.btnBenar.TabIndex = 24;
             this.btnBenar.Text = "Benar";
             this.btnBenar.UseVisualStyleBackColor = true;
             this.btnBenar.Click += new System.EventHandler(this.btnBenar_Click);
@@ -81,20 +89,12 @@ namespace WindowsFormsApp1
             // tbTimer
             // 
             this.tbTimer.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tbTimer.Location = new System.Drawing.Point(1139, 27);
+            this.tbTimer.Location = new System.Drawing.Point(1130, 22);
             this.tbTimer.Name = "tbTimer";
             this.tbTimer.Size = new System.Drawing.Size(100, 38);
-            this.tbTimer.TabIndex = 5;
+            this.tbTimer.TabIndex = 23;
             // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Location = new System.Drawing.Point(30, 27);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(1085, 557);
-            this.pictureBox1.TabIndex = 10;
-            this.pictureBox1.TabStop = false;
-            // 
-            // s2
+            // s28
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -105,9 +105,10 @@ namespace WindowsFormsApp1
             this.Controls.Add(this.btnSalah);
             this.Controls.Add(this.btnBenar);
             this.Controls.Add(this.tbTimer);
-            this.Name = "s2";
-            this.Text = "s2";
-            this.Load += new System.EventHandler(this.s2_Load);
+            this.Name = "s28";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "s28";
+            this.Load += new System.EventHandler(this.s28_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -116,11 +117,11 @@ namespace WindowsFormsApp1
 
         #endregion
 
+        private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Button btnStop;
         private System.Windows.Forms.Button btnStart;
         private System.Windows.Forms.Button btnSalah;
         private System.Windows.Forms.Button btnBenar;
         private System.Windows.Forms.TextBox tbTimer;
-        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }

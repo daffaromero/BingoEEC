@@ -34,19 +34,21 @@ namespace WindowsFormsApp1
             this.btnSalah = new System.Windows.Forms.Button();
             this.btnStart = new System.Windows.Forms.Button();
             this.btnStop = new System.Windows.Forms.Button();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // tbTimer
             // 
             this.tbTimer.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tbTimer.Location = new System.Drawing.Point(315, 78);
+            this.tbTimer.Location = new System.Drawing.Point(1136, 33);
             this.tbTimer.Name = "tbTimer";
             this.tbTimer.Size = new System.Drawing.Size(100, 38);
             this.tbTimer.TabIndex = 0;
             // 
             // btnBenar
             // 
-            this.btnBenar.Location = new System.Drawing.Point(182, 283);
+            this.btnBenar.Location = new System.Drawing.Point(276, 630);
             this.btnBenar.Name = "btnBenar";
             this.btnBenar.Size = new System.Drawing.Size(102, 45);
             this.btnBenar.TabIndex = 1;
@@ -56,7 +58,7 @@ namespace WindowsFormsApp1
             // 
             // btnSalah
             // 
-            this.btnSalah.Location = new System.Drawing.Point(410, 283);
+            this.btnSalah.Location = new System.Drawing.Point(709, 630);
             this.btnSalah.Name = "btnSalah";
             this.btnSalah.Size = new System.Drawing.Size(102, 45);
             this.btnSalah.TabIndex = 2;
@@ -66,7 +68,7 @@ namespace WindowsFormsApp1
             // 
             // btnStart
             // 
-            this.btnStart.Location = new System.Drawing.Point(315, 129);
+            this.btnStart.Location = new System.Drawing.Point(1136, 84);
             this.btnStart.Name = "btnStart";
             this.btnStart.Size = new System.Drawing.Size(73, 27);
             this.btnStart.TabIndex = 3;
@@ -76,7 +78,7 @@ namespace WindowsFormsApp1
             // 
             // btnStop
             // 
-            this.btnStop.Location = new System.Drawing.Point(410, 129);
+            this.btnStop.Location = new System.Drawing.Point(1231, 84);
             this.btnStop.Name = "btnStop";
             this.btnStop.Size = new System.Drawing.Size(73, 27);
             this.btnStop.TabIndex = 4;
@@ -84,19 +86,30 @@ namespace WindowsFormsApp1
             this.btnStop.UseVisualStyleBackColor = true;
             this.btnStop.Click += new System.EventHandler(this.btnStop_Click);
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Location = new System.Drawing.Point(24, 33);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(1085, 557);
+            this.pictureBox1.TabIndex = 5;
+            this.pictureBox1.TabStop = false;
+            // 
             // s1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1350, 729);
+            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.btnStop);
             this.Controls.Add(this.btnStart);
             this.Controls.Add(this.btnSalah);
             this.Controls.Add(this.btnBenar);
             this.Controls.Add(this.tbTimer);
             this.Name = "s1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "s1";
             this.Load += new System.EventHandler(this.s1_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -109,5 +122,6 @@ namespace WindowsFormsApp1
         private System.Windows.Forms.Button btnSalah;
         private System.Windows.Forms.Button btnStart;
         private System.Windows.Forms.Button btnStop;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
