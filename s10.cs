@@ -19,7 +19,7 @@ namespace WindowsFormsApp1
 
         public int benar = 0;
         System.Timers.Timer t;
-        int m = 0, s = 60;
+        int m = 0, s = 120;
 
         int teamnum;
 
@@ -46,21 +46,21 @@ namespace WindowsFormsApp1
             Invoke(new Action(() =>
             {
                 s -= 1;
-                tbTimer.Text = string.Format("{0}:{1}", m.ToString().PadLeft(2, '0'), s.ToString().PadLeft(2, '0'));
+                tbTimer.Text = s.ToString();
             }));
         }
 
         private void btnBenar_Click(object sender, EventArgs e)
         {
             t.Stop();
-            s = 60;
+            s = 120;
             this.benar = teamnum;
             this.Close();
         }
 
         private void btnStart_Click(object sender, EventArgs e)
         {
-            s = 60;
+            s = 120;
             t.Start();
         }
 
@@ -72,7 +72,7 @@ namespace WindowsFormsApp1
         private void btnSalah_Click(object sender, EventArgs e)
         {
             t.Stop();
-            s = 60;
+            s = 120;
             this.Close();
 
         }

@@ -174,9 +174,9 @@ namespace WindowsFormsApp1
             if (s12.benar == 1)
                 soal12.BackColor = Color.DeepSkyBlue;
             else if (s12.benar == 2)
-                soal2.BackColor = Color.SpringGreen;
+                soal12.BackColor = Color.SpringGreen;
             else if (s12.benar == 3)
-                soal2.BackColor = Color.Goldenrod;
+                soal12.BackColor = Color.Goldenrod;
 
 
             ////13
@@ -1089,7 +1089,7 @@ namespace WindowsFormsApp1
             s29.ShowDialog();
         }
 
-        private void soal20_Click(object sender, EventArgs e)
+        private void soal30_Click(object sender, EventArgs e)
         {
             teamnum++;
             teamnummod = teamnum % 3;

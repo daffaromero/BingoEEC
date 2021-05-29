@@ -29,20 +29,25 @@ namespace WindowsFormsApp1
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(s29));
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.btnStop = new System.Windows.Forms.Button();
             this.btnStart = new System.Windows.Forms.Button();
             this.btnSalah = new System.Windows.Forms.Button();
             this.btnBenar = new System.Windows.Forms.Button();
             this.tbTimer = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.TeamNumber = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // pictureBox1
             // 
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(21, 22);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(1085, 557);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.pictureBox1.TabIndex = 34;
             this.pictureBox1.TabStop = false;
             // 
@@ -94,11 +99,30 @@ namespace WindowsFormsApp1
             this.tbTimer.Size = new System.Drawing.Size(100, 38);
             this.tbTimer.TabIndex = 29;
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(1127, 128);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(58, 13);
+            this.label1.TabIndex = 36;
+            this.label1.Text = "Nomor Tim";
+            // 
+            // TeamNumber
+            // 
+            this.TeamNumber.Location = new System.Drawing.Point(1130, 144);
+            this.TeamNumber.Name = "TeamNumber";
+            this.TeamNumber.ReadOnly = true;
+            this.TeamNumber.Size = new System.Drawing.Size(101, 20);
+            this.TeamNumber.TabIndex = 35;
+            // 
             // s29
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1350, 729);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.TeamNumber);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.btnStop);
             this.Controls.Add(this.btnStart);
@@ -123,5 +147,7 @@ namespace WindowsFormsApp1
         private System.Windows.Forms.Button btnSalah;
         private System.Windows.Forms.Button btnBenar;
         private System.Windows.Forms.TextBox tbTimer;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox TeamNumber;
     }
 }
