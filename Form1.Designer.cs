@@ -80,6 +80,9 @@ namespace WindowsFormsApp1
             this.soal2 = new System.Windows.Forms.Button();
             this.soal1 = new System.Windows.Forms.Button();
             this.btnRefresh = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -150,7 +153,7 @@ namespace WindowsFormsApp1
             this.soal49.Name = "soal49";
             this.soal49.Size = new System.Drawing.Size(70, 70);
             this.soal49.TabIndex = 50;
-            this.soal49.Text = "7";
+            this.soal49.Text = "49";
             this.soal49.UseVisualStyleBackColor = false;
             this.soal49.Click += new System.EventHandler(this.soal49_Click);
             // 
@@ -162,7 +165,7 @@ namespace WindowsFormsApp1
             this.soal48.Name = "soal48";
             this.soal48.Size = new System.Drawing.Size(70, 70);
             this.soal48.TabIndex = 49;
-            this.soal48.Text = "6";
+            this.soal48.Text = "48";
             this.soal48.UseVisualStyleBackColor = false;
             this.soal48.Click += new System.EventHandler(this.soal48_Click);
             // 
@@ -174,7 +177,7 @@ namespace WindowsFormsApp1
             this.soal47.Name = "soal47";
             this.soal47.Size = new System.Drawing.Size(70, 70);
             this.soal47.TabIndex = 48;
-            this.soal47.Text = "5";
+            this.soal47.Text = "47";
             this.soal47.UseVisualStyleBackColor = false;
             this.soal47.Click += new System.EventHandler(this.soal47_Click);
             // 
@@ -186,7 +189,7 @@ namespace WindowsFormsApp1
             this.soal46.Name = "soal46";
             this.soal46.Size = new System.Drawing.Size(70, 70);
             this.soal46.TabIndex = 47;
-            this.soal46.Text = "4";
+            this.soal46.Text = "46";
             this.soal46.UseVisualStyleBackColor = false;
             this.soal46.Click += new System.EventHandler(this.soal46_Click);
             // 
@@ -198,7 +201,7 @@ namespace WindowsFormsApp1
             this.soal45.Name = "soal45";
             this.soal45.Size = new System.Drawing.Size(70, 70);
             this.soal45.TabIndex = 46;
-            this.soal45.Text = "3";
+            this.soal45.Text = "45";
             this.soal45.UseVisualStyleBackColor = false;
             this.soal45.Click += new System.EventHandler(this.soal45_Click);
             // 
@@ -210,7 +213,7 @@ namespace WindowsFormsApp1
             this.soal44.Name = "soal44";
             this.soal44.Size = new System.Drawing.Size(70, 70);
             this.soal44.TabIndex = 45;
-            this.soal44.Text = "2";
+            this.soal44.Text = "44";
             this.soal44.UseVisualStyleBackColor = false;
             this.soal44.Click += new System.EventHandler(this.soal44_Click);
             // 
@@ -222,7 +225,7 @@ namespace WindowsFormsApp1
             this.soal43.Name = "soal43";
             this.soal43.Size = new System.Drawing.Size(70, 70);
             this.soal43.TabIndex = 44;
-            this.soal43.Text = "1";
+            this.soal43.Text = "43";
             this.soal43.UseVisualStyleBackColor = false;
             this.soal43.Click += new System.EventHandler(this.soal43_Click);
             // 
@@ -234,7 +237,7 @@ namespace WindowsFormsApp1
             this.soal42.Name = "soal42";
             this.soal42.Size = new System.Drawing.Size(70, 70);
             this.soal42.TabIndex = 43;
-            this.soal42.Text = "7";
+            this.soal42.Text = "42";
             this.soal42.UseVisualStyleBackColor = false;
             this.soal42.Click += new System.EventHandler(this.soal42_Click);
             // 
@@ -246,7 +249,7 @@ namespace WindowsFormsApp1
             this.soal41.Name = "soal41";
             this.soal41.Size = new System.Drawing.Size(70, 70);
             this.soal41.TabIndex = 42;
-            this.soal41.Text = "6";
+            this.soal41.Text = "41";
             this.soal41.UseVisualStyleBackColor = false;
             this.soal41.Click += new System.EventHandler(this.soal41_Click);
             // 
@@ -258,7 +261,7 @@ namespace WindowsFormsApp1
             this.soal40.Name = "soal40";
             this.soal40.Size = new System.Drawing.Size(70, 70);
             this.soal40.TabIndex = 41;
-            this.soal40.Text = "5";
+            this.soal40.Text = "40";
             this.soal40.UseVisualStyleBackColor = false;
             this.soal40.Click += new System.EventHandler(this.soal40_Click);
             // 
@@ -270,7 +273,7 @@ namespace WindowsFormsApp1
             this.soal39.Name = "soal39";
             this.soal39.Size = new System.Drawing.Size(70, 70);
             this.soal39.TabIndex = 40;
-            this.soal39.Text = "4";
+            this.soal39.Text = "39";
             this.soal39.UseVisualStyleBackColor = false;
             this.soal39.Click += new System.EventHandler(this.soal39_Click);
             // 
@@ -282,7 +285,7 @@ namespace WindowsFormsApp1
             this.soal38.Name = "soal38";
             this.soal38.Size = new System.Drawing.Size(70, 70);
             this.soal38.TabIndex = 39;
-            this.soal38.Text = "3";
+            this.soal38.Text = "38";
             this.soal38.UseVisualStyleBackColor = false;
             this.soal38.Click += new System.EventHandler(this.soal38_Click);
             // 
@@ -294,7 +297,7 @@ namespace WindowsFormsApp1
             this.soal37.Name = "soal37";
             this.soal37.Size = new System.Drawing.Size(70, 70);
             this.soal37.TabIndex = 38;
-            this.soal37.Text = "2";
+            this.soal37.Text = "37";
             this.soal37.UseVisualStyleBackColor = false;
             this.soal37.Click += new System.EventHandler(this.soal37_Click);
             // 
@@ -306,7 +309,7 @@ namespace WindowsFormsApp1
             this.soal36.Name = "soal36";
             this.soal36.Size = new System.Drawing.Size(70, 70);
             this.soal36.TabIndex = 37;
-            this.soal36.Text = "1";
+            this.soal36.Text = "36";
             this.soal36.UseVisualStyleBackColor = false;
             this.soal36.Click += new System.EventHandler(this.soal36_Click);
             // 
@@ -318,7 +321,7 @@ namespace WindowsFormsApp1
             this.soal35.Name = "soal35";
             this.soal35.Size = new System.Drawing.Size(70, 70);
             this.soal35.TabIndex = 36;
-            this.soal35.Text = "7";
+            this.soal35.Text = "35";
             this.soal35.UseVisualStyleBackColor = false;
             this.soal35.Click += new System.EventHandler(this.soal35_Click);
             // 
@@ -330,7 +333,7 @@ namespace WindowsFormsApp1
             this.soal34.Name = "soal34";
             this.soal34.Size = new System.Drawing.Size(70, 70);
             this.soal34.TabIndex = 35;
-            this.soal34.Text = "6";
+            this.soal34.Text = "34";
             this.soal34.UseVisualStyleBackColor = false;
             this.soal34.Click += new System.EventHandler(this.soal34_Click);
             // 
@@ -342,7 +345,7 @@ namespace WindowsFormsApp1
             this.soal33.Name = "soal33";
             this.soal33.Size = new System.Drawing.Size(70, 70);
             this.soal33.TabIndex = 34;
-            this.soal33.Text = "5";
+            this.soal33.Text = "33";
             this.soal33.UseVisualStyleBackColor = false;
             this.soal33.Click += new System.EventHandler(this.soal33_Click);
             // 
@@ -354,7 +357,7 @@ namespace WindowsFormsApp1
             this.soal32.Name = "soal32";
             this.soal32.Size = new System.Drawing.Size(70, 70);
             this.soal32.TabIndex = 33;
-            this.soal32.Text = "4";
+            this.soal32.Text = "32";
             this.soal32.UseVisualStyleBackColor = false;
             this.soal32.Click += new System.EventHandler(this.soal32_Click);
             // 
@@ -366,7 +369,7 @@ namespace WindowsFormsApp1
             this.soal31.Name = "soal31";
             this.soal31.Size = new System.Drawing.Size(70, 70);
             this.soal31.TabIndex = 32;
-            this.soal31.Text = "3";
+            this.soal31.Text = "31";
             this.soal31.UseVisualStyleBackColor = false;
             this.soal31.Click += new System.EventHandler(this.soal31_Click);
             // 
@@ -378,7 +381,7 @@ namespace WindowsFormsApp1
             this.soal30.Name = "soal30";
             this.soal30.Size = new System.Drawing.Size(70, 70);
             this.soal30.TabIndex = 31;
-            this.soal30.Text = "2";
+            this.soal30.Text = "30";
             this.soal30.UseVisualStyleBackColor = false;
             this.soal30.Click += new System.EventHandler(this.soal30_Click);
             // 
@@ -390,7 +393,7 @@ namespace WindowsFormsApp1
             this.soal29.Name = "soal29";
             this.soal29.Size = new System.Drawing.Size(70, 70);
             this.soal29.TabIndex = 30;
-            this.soal29.Text = "1";
+            this.soal29.Text = "29";
             this.soal29.UseVisualStyleBackColor = false;
             this.soal29.Click += new System.EventHandler(this.soal29_Click);
             // 
@@ -402,7 +405,7 @@ namespace WindowsFormsApp1
             this.soal28.Name = "soal28";
             this.soal28.Size = new System.Drawing.Size(70, 70);
             this.soal28.TabIndex = 29;
-            this.soal28.Text = "7";
+            this.soal28.Text = "28";
             this.soal28.UseVisualStyleBackColor = false;
             this.soal28.Click += new System.EventHandler(this.soal28_Click);
             // 
@@ -414,7 +417,7 @@ namespace WindowsFormsApp1
             this.soal27.Name = "soal27";
             this.soal27.Size = new System.Drawing.Size(70, 70);
             this.soal27.TabIndex = 28;
-            this.soal27.Text = "6";
+            this.soal27.Text = "27";
             this.soal27.UseVisualStyleBackColor = false;
             this.soal27.Click += new System.EventHandler(this.soal27_Click);
             // 
@@ -426,7 +429,7 @@ namespace WindowsFormsApp1
             this.soal26.Name = "soal26";
             this.soal26.Size = new System.Drawing.Size(70, 70);
             this.soal26.TabIndex = 27;
-            this.soal26.Text = "5";
+            this.soal26.Text = "26";
             this.soal26.UseVisualStyleBackColor = false;
             this.soal26.Click += new System.EventHandler(this.soal26_Click);
             // 
@@ -438,7 +441,7 @@ namespace WindowsFormsApp1
             this.soal25.Name = "soal25";
             this.soal25.Size = new System.Drawing.Size(70, 70);
             this.soal25.TabIndex = 26;
-            this.soal25.Text = "4";
+            this.soal25.Text = "25";
             this.soal25.UseVisualStyleBackColor = false;
             this.soal25.Click += new System.EventHandler(this.soal25_Click);
             // 
@@ -450,7 +453,7 @@ namespace WindowsFormsApp1
             this.soal24.Name = "soal24";
             this.soal24.Size = new System.Drawing.Size(70, 70);
             this.soal24.TabIndex = 25;
-            this.soal24.Text = "3";
+            this.soal24.Text = "24";
             this.soal24.UseVisualStyleBackColor = false;
             this.soal24.Click += new System.EventHandler(this.soal24_Click);
             // 
@@ -462,7 +465,7 @@ namespace WindowsFormsApp1
             this.soal23.Name = "soal23";
             this.soal23.Size = new System.Drawing.Size(70, 70);
             this.soal23.TabIndex = 24;
-            this.soal23.Text = "2";
+            this.soal23.Text = "23";
             this.soal23.UseVisualStyleBackColor = false;
             this.soal23.Click += new System.EventHandler(this.soal23_Click);
             // 
@@ -474,7 +477,7 @@ namespace WindowsFormsApp1
             this.soal22.Name = "soal22";
             this.soal22.Size = new System.Drawing.Size(70, 70);
             this.soal22.TabIndex = 23;
-            this.soal22.Text = "1";
+            this.soal22.Text = "22";
             this.soal22.UseVisualStyleBackColor = false;
             this.soal22.Click += new System.EventHandler(this.soal22_Click);
             // 
@@ -486,7 +489,7 @@ namespace WindowsFormsApp1
             this.soal21.Name = "soal21";
             this.soal21.Size = new System.Drawing.Size(70, 70);
             this.soal21.TabIndex = 22;
-            this.soal21.Text = "7";
+            this.soal21.Text = "21";
             this.soal21.UseVisualStyleBackColor = false;
             this.soal21.Click += new System.EventHandler(this.soal21_Click);
             // 
@@ -498,7 +501,7 @@ namespace WindowsFormsApp1
             this.soal20.Name = "soal20";
             this.soal20.Size = new System.Drawing.Size(70, 70);
             this.soal20.TabIndex = 21;
-            this.soal20.Text = "6";
+            this.soal20.Text = "20";
             this.soal20.UseVisualStyleBackColor = false;
             this.soal20.Click += new System.EventHandler(this.soal20_Click);
             // 
@@ -510,7 +513,7 @@ namespace WindowsFormsApp1
             this.soal19.Name = "soal19";
             this.soal19.Size = new System.Drawing.Size(70, 70);
             this.soal19.TabIndex = 20;
-            this.soal19.Text = "5";
+            this.soal19.Text = "19";
             this.soal19.UseVisualStyleBackColor = false;
             this.soal19.Click += new System.EventHandler(this.soal19_Click);
             // 
@@ -522,7 +525,7 @@ namespace WindowsFormsApp1
             this.soal18.Name = "soal18";
             this.soal18.Size = new System.Drawing.Size(70, 70);
             this.soal18.TabIndex = 19;
-            this.soal18.Text = "4";
+            this.soal18.Text = "18";
             this.soal18.UseVisualStyleBackColor = false;
             this.soal18.Click += new System.EventHandler(this.soal18_Click);
             // 
@@ -534,7 +537,7 @@ namespace WindowsFormsApp1
             this.soal17.Name = "soal17";
             this.soal17.Size = new System.Drawing.Size(70, 70);
             this.soal17.TabIndex = 18;
-            this.soal17.Text = "3";
+            this.soal17.Text = "17";
             this.soal17.UseVisualStyleBackColor = false;
             this.soal17.Click += new System.EventHandler(this.soal17_Click);
             // 
@@ -546,7 +549,7 @@ namespace WindowsFormsApp1
             this.soal16.Name = "soal16";
             this.soal16.Size = new System.Drawing.Size(70, 70);
             this.soal16.TabIndex = 17;
-            this.soal16.Text = "2";
+            this.soal16.Text = "16";
             this.soal16.UseVisualStyleBackColor = false;
             this.soal16.Click += new System.EventHandler(this.soal16_Click);
             // 
@@ -558,7 +561,7 @@ namespace WindowsFormsApp1
             this.soal15.Name = "soal15";
             this.soal15.Size = new System.Drawing.Size(70, 70);
             this.soal15.TabIndex = 16;
-            this.soal15.Text = "1";
+            this.soal15.Text = "15";
             this.soal15.UseVisualStyleBackColor = false;
             this.soal15.Click += new System.EventHandler(this.soal15_Click);
             // 
@@ -570,7 +573,7 @@ namespace WindowsFormsApp1
             this.soal14.Name = "soal14";
             this.soal14.Size = new System.Drawing.Size(70, 70);
             this.soal14.TabIndex = 15;
-            this.soal14.Text = "7";
+            this.soal14.Text = "14";
             this.soal14.UseVisualStyleBackColor = false;
             this.soal14.Click += new System.EventHandler(this.soal14_Click);
             // 
@@ -582,7 +585,7 @@ namespace WindowsFormsApp1
             this.soal13.Name = "soal13";
             this.soal13.Size = new System.Drawing.Size(70, 70);
             this.soal13.TabIndex = 14;
-            this.soal13.Text = "6";
+            this.soal13.Text = "13";
             this.soal13.UseVisualStyleBackColor = false;
             this.soal13.Click += new System.EventHandler(this.soal13_Click);
             // 
@@ -594,7 +597,7 @@ namespace WindowsFormsApp1
             this.soal12.Name = "soal12";
             this.soal12.Size = new System.Drawing.Size(70, 70);
             this.soal12.TabIndex = 13;
-            this.soal12.Text = "5";
+            this.soal12.Text = "12";
             this.soal12.UseVisualStyleBackColor = false;
             this.soal12.Click += new System.EventHandler(this.soal12_Click);
             // 
@@ -606,7 +609,7 @@ namespace WindowsFormsApp1
             this.soal11.Name = "soal11";
             this.soal11.Size = new System.Drawing.Size(70, 70);
             this.soal11.TabIndex = 12;
-            this.soal11.Text = "4";
+            this.soal11.Text = "11";
             this.soal11.UseVisualStyleBackColor = false;
             this.soal11.Click += new System.EventHandler(this.soal11_Click);
             // 
@@ -618,7 +621,7 @@ namespace WindowsFormsApp1
             this.soal10.Name = "soal10";
             this.soal10.Size = new System.Drawing.Size(70, 70);
             this.soal10.TabIndex = 11;
-            this.soal10.Text = "3";
+            this.soal10.Text = "10";
             this.soal10.UseVisualStyleBackColor = false;
             this.soal10.Click += new System.EventHandler(this.soal10_Click);
             // 
@@ -630,7 +633,7 @@ namespace WindowsFormsApp1
             this.soal9.Name = "soal9";
             this.soal9.Size = new System.Drawing.Size(70, 70);
             this.soal9.TabIndex = 10;
-            this.soal9.Text = "2";
+            this.soal9.Text = "9";
             this.soal9.UseVisualStyleBackColor = false;
             this.soal9.Click += new System.EventHandler(this.soal9_Click);
             // 
@@ -642,7 +645,7 @@ namespace WindowsFormsApp1
             this.soal8.Name = "soal8";
             this.soal8.Size = new System.Drawing.Size(70, 70);
             this.soal8.TabIndex = 9;
-            this.soal8.Text = "1";
+            this.soal8.Text = "8";
             this.soal8.UseVisualStyleBackColor = false;
             this.soal8.Click += new System.EventHandler(this.soal8_Click);
             // 
@@ -743,11 +746,44 @@ namespace WindowsFormsApp1
             this.btnRefresh.UseVisualStyleBackColor = false;
             this.btnRefresh.Click += new System.EventHandler(this.btnRefresh_Click);
             // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.Color.DeepSkyBlue;
+            this.button1.Location = new System.Drawing.Point(1135, 184);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(123, 48);
+            this.button1.TabIndex = 2;
+            this.button1.Text = "Tim 1";
+            this.button1.UseVisualStyleBackColor = false;
+            // 
+            // button2
+            // 
+            this.button2.BackColor = System.Drawing.Color.SpringGreen;
+            this.button2.Location = new System.Drawing.Point(1135, 247);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(123, 48);
+            this.button2.TabIndex = 3;
+            this.button2.Text = "Tim 2";
+            this.button2.UseVisualStyleBackColor = false;
+            // 
+            // button3
+            // 
+            this.button3.BackColor = System.Drawing.Color.Goldenrod;
+            this.button3.Location = new System.Drawing.Point(1135, 312);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(123, 48);
+            this.button3.TabIndex = 4;
+            this.button3.Text = "Tim 3";
+            this.button3.UseVisualStyleBackColor = false;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1350, 729);
+            this.Controls.Add(this.button3);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.btnRefresh);
             this.Controls.Add(this.panel1);
             this.Name = "Form1";
@@ -811,6 +847,9 @@ namespace WindowsFormsApp1
         private System.Windows.Forms.Button soal10;
         private System.Windows.Forms.Button soal9;
         private System.Windows.Forms.Button soal8;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button3;
     }
 }
 

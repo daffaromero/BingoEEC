@@ -18,9 +18,11 @@ namespace WindowsFormsApp1
             InitializeComponent();
         }
 
-        public int benar = 0;
+        public int benars1 = 0;
         System.Timers.Timer t;
         int m = 0, s = 60;
+
+        int teamnum;
 
         private void s1_Load(object sender, EventArgs e)
         {
@@ -28,6 +30,16 @@ namespace WindowsFormsApp1
             t.Interval = 1000; //1s
             t.Elapsed += OnTimeEvent;
             t.Start();
+        }
+
+        public int _teamNumInt
+        {
+            set { teamnum = value; }
+        }
+
+        public string _textBox
+        {
+            set { TeamNumber.Text = value; }
         }
 
         private void OnTimeEvent(object sender, System.Timers.ElapsedEventArgs e)
@@ -43,7 +55,8 @@ namespace WindowsFormsApp1
         {
             t.Stop();
             s = 60;
-            this.benar = 1;
+            this.benars1 = teamnum;
+            this.Close();
         }
 
         private void btnStart_Click(object sender, EventArgs e)
@@ -61,8 +74,13 @@ namespace WindowsFormsApp1
         {
             t.Stop();
             s = 60;
-            this.benar = 2;
+            this.Close();
         }
 
+        private void s1_Closing(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+            t.Stop();
+            s = 60;
+        }
     }
 }
